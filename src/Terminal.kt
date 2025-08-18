@@ -1,0 +1,3 @@
+class Terminal {
+    // Awaiting review
+}

@@ -1,0 +1,3 @@
+class PrizeCategory {
+    // Awaiting review
+}
