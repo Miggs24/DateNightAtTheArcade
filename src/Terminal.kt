@@ -1,3 +1,3 @@
 class Terminal {
-    // Awaiting review
+    private val prizes = mutableMapOf<String, PrizeCategory>()
 }
